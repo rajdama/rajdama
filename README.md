@@ -4,7 +4,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
  
 <img src="https://github-readme-stats.vercel.app/api?username=rajdama&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-## 🔗 Links
+## 🔗 Feel free to connect on
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raj-portfolio-a4715.web.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-dama-79a8ab209/)
 [![instagram](https://img.shields.io/badge/instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raj_.18_/)
