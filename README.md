@@ -1,5 +1,8 @@
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<rajdama>&theme=<THEME_NAME>" />
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raj-portfolio-a4715.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-dama-79a8ab209/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/raj_.18_/)
 
 <!--
 **rajdama/rajdama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
