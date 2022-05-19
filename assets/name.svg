@@ -1,61 +1,6 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientText {
-				  0% {
-				    background-position: 0% 50%;
-				  }
-				  50% {
-				    background-position: 100% 50%;
-				  }
-				  100% {
-				    background-position: 0% 50%;
-				  }
-				}
-        .snowflake {
-          color: #fff;
-          font-size: 1em;
-          font-family: Arial;
-          text-shadow: 0 0 1px #000;
-        }
-				h1 {
-				  font-family: 'Inter',
-					-apple-system,
-					BlinkMacSystemFont, 
-					'Segoe UI', 
-					'Roboto', 
-					'Oxygen', 
-					'Ubuntu', 
-					'Cantarell', 
-					'Fira Sans', 
-					'Droid Sans', 
-					'Helvetica Neue', 
-					sans-serif;
-				  margin: 0;
-				  font-size: 4em;
-				  font-weight: 900;
-				  letter-spacing: -.05em;
-				  text-align: center;
-				  background: -webkit-linear-gradient(right,#ffffff,#620606);
-				  background: linear-gradient(270deg,#ffffff 0,#620606);
-				  background-size: 200%;
-				  background-clip: text;
-				  -webkit-background-clip: text;
-				  -webkit-text-fill-color: transparent;
-				  -webkit-animation: gradientText 3s ease infinite;
-				  animation: gradientText 3s ease infinite;
-				}
-        @-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes snowflakes-shake{0%{-webkit-transform:translateX(0px);transform:translateX(0px)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}100%{-webkit-transform:translateX(0px);transform:translateX(0px)}}@keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes snowflakes-shake{0%{transform:translateX(0px)}50%{transform:translateX(80px)}100%{transform:translateX(0px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}
-			</style>
-			<h1>Aryan Kashyap</h1>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-		</div>
-	</foreignObject>
-</svg>
+<svg width="423.575px" height="120.8px" xmlns="http://www.w3.org/2000/svg" viewBox="38.212500000000006 14.600000000000001 423.575 120.8" style="background: rgba(0, 0, 0, 0);" preserveAspectRatio="xMidYMid"><defs><linearGradient id="editing-outline-gradient" x1="-0.41354545764260087" x2="1.4135454576426008" y1="0.09326335692419985" y2="0.9067366430758002"><stop offset="0" stop-color="#ee4208"></stop><stop offset="1" stop-color="#4139ff"></stop></linearGradient><filter id="editing-outline" x="-100%" y="-100%" width="300%" height="300%"><feMorphology in="SourceGraphic" operator="dilate" radius="1" result="outline"></feMorphology><feComposite operator="out" in="outline" in2="SourceAlpha"></feComposite></filter></defs><g filter="url(#editing-outline)"><g transform="translate(102.67502045631409, 102.58499908447266)"><path d="M14.21 0L0.51 0L8.32-42.05L8.32-42.05Q14.66-42.75 23.90-42.75L23.90-42.75L23.90-42.75Q33.15-42.75 37.44-40.06L37.44-40.06L37.44-40.06Q41.73-37.38 41.73-31.97L41.73-31.97L41.73-31.97Q41.73-26.56 38.94-23.17L38.94-23.17L38.94-23.17Q36.16-19.78 31.36-18.69L31.36-18.69L31.36-18.69Q32.45-13.38 34.94-9.09L34.94-9.09L34.94-9.09Q37.25-5.06 39.94-3.78L39.94-3.78L39.94-3.78Q38.98-1.09 37.02 0.10L37.02 0.10L37.02 0.10Q35.07 1.28 32.29 1.28L32.29 1.28L32.29 1.28Q29.50 1.28 27.33-0.35L27.33-0.35L27.33-0.35Q25.15-1.98 23.42-4.99L23.42-4.99L23.42-4.99Q19.78-11.52 19.39-21.82L19.39-21.82L19.84-21.82L19.84-21.82Q24.58-21.95 26.94-24.42L26.94-24.42L26.94-24.42Q29.31-26.88 29.31-32.06L29.31-32.06L29.31-32.06Q29.31-38.53 23.87-38.78L23.87-38.78L22.46-38.78L22.46-38.78Q21.89-38.78 21.57-38.72L21.57-38.72L14.21 0ZM72.77 1.28L72.77 1.28L72.77 1.28Q64.58 1.28 63.81-10.37L63.81-10.37L52.80-10.37L52.80-10.37Q51.52-7.42 50.62-4.86L50.62-4.86L48.96 0L40 0L60.16-42.24L73.92-42.24L76.61-11.14L76.61-11.14Q77.25-4.42 79.81-2.43L79.81-2.43L79.81-2.43Q77.95 1.28 72.77 1.28ZM58.30-23.17L54.78-15.04L63.62-15.04L62.85-31.49L62.85-33.22L58.30-23.17ZM75.46 8.83L75.46 8.83L75.46 8.83Q78.72 8.45 80.77 4.22L80.77 4.22L80.77 4.22Q82.88-0.06 84.80-9.92L84.80-9.92L91.01-42.24L104.90-42.24L98.69-9.92L98.69-9.92Q96.32 2.62 92.42 7.55L92.42 7.55L92.42 7.55Q90.37 10.11 87.78 11.14L87.78 11.14L87.78 11.14Q85.18 12.16 82.37 12.16L82.37 12.16L82.37 12.16Q79.55 12.16 77.73 11.14L77.73 11.14L77.73 11.14Q75.90 10.11 75.46 8.83ZM161.02-26.56L161.02-26.56L161.02-26.56Q161.02 0.70 131.46 0.70L131.46 0.70L131.46 0.70Q126.72 0.70 118.91-0.45L118.91-0.45L126.08-38.27L126.08-38.27Q126.59-40.83 126.91-42.30L126.91-42.30L126.91-42.30Q136.64-43.01 140.96-43.01L140.96-43.01L140.96-43.01Q145.28-43.01 149.25-42.11L149.25-42.11L149.25-42.11Q153.22-41.22 155.84-39.23L155.84-39.23L155.84-39.23Q161.02-35.33 161.02-26.56ZM147.84-28.93L147.84-28.93L147.84-28.93Q147.84-38.46 140.99-38.46L140.99-38.46L140.35-38.46L140.35-38.46Q140.03-38.46 139.71-38.40L139.71-38.40L133.12-4.03L133.12-4.03Q133.38-3.90 133.63-3.90L133.63-3.90L134.14-3.90L134.14-3.90Q136.51-3.90 138.98-5.38L138.98-5.38L138.98-5.38Q141.44-6.85 143.36-9.86L143.36-9.86L143.36-9.86Q147.84-16.83 147.84-28.93ZM191.94 1.28L191.94 1.28L191.94 1.28Q183.74 1.28 182.98-10.37L182.98-10.37L171.97-10.37L171.97-10.37Q170.69-7.42 169.79-4.86L169.79-4.86L168.13 0L159.17 0L179.33-42.24L193.09-42.24L195.78-11.14L195.78-11.14Q196.42-4.42 198.98-2.43L198.98-2.43L198.98-2.43Q197.12 1.28 191.94 1.28ZM177.47-23.17L173.95-15.04L182.78-15.04L182.02-31.49L182.02-33.22L177.47-23.17ZM208.13 0L200.77 0L212.35-42.24L225.73-42.24L228.67-18.11L240.58-42.24L251.78-42.24L252.93-10.62L252.93-10.62Q253.18-4.35 256.26-2.43L256.26-2.43L256.26-2.43Q255.55-1.15 253.50 0.06L253.50 0.06L253.50 0.06Q251.46 1.28 248.74 1.28L248.74 1.28L248.74 1.28Q246.02 1.28 244.42 0.51L244.42 0.51L244.42 0.51Q242.82-0.26 241.92-1.54L241.92-1.54L241.92-1.54Q240.32-3.84 240.32-8.26L240.32-8.26L240.32-28.03L227.71 0L219.78 0L215.30-28.74L208.13 0ZM287.10 1.28L287.10 1.28L287.10 1.28Q278.91 1.28 278.14-10.37L278.14-10.37L267.14-10.37L267.14-10.37Q265.86-7.42 264.96-4.86L264.96-4.86L263.30 0L254.34 0L274.50-42.24L288.26-42.24L290.94-11.14L290.94-11.14Q291.58-4.42 294.14-2.43L294.14-2.43L294.14-2.43Q292.29 1.28 287.10 1.28ZM272.64-23.17L269.12-15.04L277.95-15.04L277.18-31.49L277.18-33.22L272.64-23.17Z" fill="url(#editing-outline-gradient)"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>
