@@ -6,7 +6,7 @@
 <h3 align="center"><b>Sophomore CS Undergrad | Full Stack Developer</b> </h3>
 <p align="center">
 <p align='center'>I am a Undergraduate student in VIT Bhopal &#127891; studying &#10002; Artificial Intelligence.
-I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I am a MERN Stack Develope, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to <a href='https://www.linkedin.com/in/aryankashyap/'>connect</a>!</p>
+I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I am a MERN Stack Developer, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to connect</a>!</p>
 
 <br>
 <p align='center'>
@@ -34,7 +34,7 @@ I am a versatile person who loves to learn about all new technologies and make m
 </div>
 
 LANGUAGES USED
-<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankashyap7&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdama&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  
 
 <br>
 
@@ -46,7 +46,7 @@ LANGUAGES USED
 | `Languages` | ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | `Tools`     | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-AA2690?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23FF9A00.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) |
 
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-aryankashyap7&style=flat-square&color=232323">
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-rajdama&style=flat-square&color=232323">
 <hr>
 
 ## <p align=center><B> ''Optimism is an occupational hazard of programming: feedback is the treatment''</B></p>
