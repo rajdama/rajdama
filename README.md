@@ -1,4 +1,4 @@
-<!-- <h1 align="center">  Hey there <img src="./assets/wave.gif" width="30px"> , I'm </h1>
+<h1 align="center">  Hey there <img src="./assets/wave.gif" width="30px"> , I'm </h1>
 <p align="center"><img  src="./assets/name.svg"></p>
 
 ---
@@ -33,8 +33,8 @@ I am a versatile person who loves to learn about all new technologies and make m
 <img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=rajdama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" alt="rajdama" />
 </div>
 
-<!-- LANGUAGES USED -->
-<!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankashyap7&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
+LANGUAGES USED
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankashyap7&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  
 
 <br>
 
