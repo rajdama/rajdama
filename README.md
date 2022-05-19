@@ -1,5 +1,5 @@
 <h1 align="center">  Hey there <img src="./assets/wave.gif" width="30px"> , I'm </h1>
-<p align="center"><img  src="./assets/name.svg"></p>
+<!-- <p align="center"><img  src="./assets/name.svg"></p> -->
 
 ---
 
@@ -56,4 +56,4 @@ LANGUAGES USED
 <img src="./assets/footer [halfrost].png">
 
 ### <p align="center"> Congratulations, you found me on GitHub ! </p>
- -->
+
