@@ -25,14 +25,6 @@ I am a versatile person who loves to learn about all new technologies and make m
 - 💬 Ask me about Frontend Web-Dev and DSA :)
 - ⚡ Fun fact : I love networking and meeting new people !
 
-<div>
-<img src="https://activity-graph.herokuapp.com/graph?username=rajdama&theme=radical&bg_color=00000000&point=00000000&line=ff3333&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=CACACA&area=true&area_color=ff3333">
-</div>
-<div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=rajdama&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=ff3333&icon_color=ff3333&bg_color=0D111700&text_color=CACACA&custom_title=Raj's+Github Stats" alt="Raj's Github stats" />
-<img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=rajdama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" alt="rajdama" />
-</div>
-
 LANGUAGES USED
 <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdama&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  
 
