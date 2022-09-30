@@ -3,10 +3,10 @@
 
 ---
 
-<h3 align="center"><b>Sophomore CS Undergrad | Full Stack Developer</b> </h3>
+<h3 align="center"><b> 3rd year CS Undergrad | Web3.0 Developer</b> </h3>
 <p align="center">
 <p align='center'>I am a Undergraduate student in VIT Bhopal &#127891; studying &#10002; Artificial Intelligence.
-I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I am a MERN Stack Developer, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to connect</a>!</p>
+I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I mostly spend my time with ethereum ecosystem and learning latest technologies in Web3.0. I am Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to connect</a>!</p>
 
 <br>
 <p align='center'>
@@ -19,19 +19,11 @@ I am a versatile person who loves to learn about all new technologies and make m
 
 **ABOUT ME**
 
-- 👋 I am Currently learning Backend Web-dev and Machine Learning.
-- 🌐 I am Exploring Open source projects while building on Web-Dev and Python.
+- 👋 I am Currently working with Web3.0 and Machine Learning.
+- 🌐 I am Exploring Open source projects and love to work with MERN stack technologies.
 - 💭 I am always up for hackathons, Lets git it done !
-- 💬 Ask me about Frontend Web-Dev and DSA :)
+- 💬 Ask me about Web3.0 and DSA :)
 - ⚡ Fun fact : I love networking and meeting new people !
-
-<div>
-<img src="https://activity-graph.herokuapp.com/graph?username=rajdama&theme=radical&bg_color=00000000&point=00000000&line=ff3333&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=CACACA&area=true&area_color=ff3333">
-</div>
-<div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=rajdama&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=ff3333&icon_color=ff3333&bg_color=0D111700&text_color=CACACA&custom_title=Raj's+Github Stats" alt="Raj's Github stats" />
-<img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=rajdama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" alt="rajdama" />
-</div>
 
 <br>
 
