@@ -19,7 +19,7 @@ I am a versatile person who loves to learn about all new technologies and make m
 
 **ABOUT ME**
 
-- 👋 I am Currently working with Web3.0 and Machine Learning.
+- 👋 I am Currently working on DEFI, DAO and NFT MARKETPLACES.
 - 🌐 I am Exploring Open source projects and love to work with MERN stack technologies.
 - 💭 I am always up for hackathons, Lets git it done !
 - 💬 Ask me about Web3.0 and DSA :)
