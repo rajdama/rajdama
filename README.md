@@ -21,13 +21,12 @@
 
 <br>
 
-<img align="right" src="https://pbs.twimg.com/profile_banners/1456928082967756804/1694767409/1500x500">
 <hr>
 
 ## <p align=center><B> ''Optimism is an occupational hazard of programming: feedback is the treatment.''</B></p>
 
 ---
 
-<img src="./assets/footer [halfrost].png">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE7q1gsDdyOhg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718900667723?e=1746057600&v=beta&t=cRivYGOPkH4VUeZDvsmwDRKUhCd4_9JCxH79M21YRvU">
 
 ### <p align="center"> Congratulations, you found me on GitHub ! </p>
